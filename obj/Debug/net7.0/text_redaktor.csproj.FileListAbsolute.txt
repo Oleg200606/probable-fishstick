@@ -1,0 +1,17 @@
+/Users/oleg/Projects/text_redaktor/bin/Debug/net7.0/text_redaktor
+/Users/oleg/Projects/text_redaktor/bin/Debug/net7.0/text_redaktor.deps.json
+/Users/oleg/Projects/text_redaktor/bin/Debug/net7.0/text_redaktor.runtimeconfig.json
+/Users/oleg/Projects/text_redaktor/bin/Debug/net7.0/text_redaktor.dll
+/Users/oleg/Projects/text_redaktor/bin/Debug/net7.0/text_redaktor.pdb
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/text_redaktor.csproj.AssemblyReference.cache
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/text_redaktor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/text_redaktor.AssemblyInfoInputs.cache
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/text_redaktor.AssemblyInfo.cs
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/text_redaktor.csproj.CoreCompileInputs.cache
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/text_redaktor.dll
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/refint/text_redaktor.dll
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/text_redaktor.pdb
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/text_redaktor.genruntimeconfig.cache
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/ref/text_redaktor.dll
+/Users/oleg/Projects/text_redaktor/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/oleg/Projects/text_redaktor/obj/Debug/net7.0/text_redaktor.csproj.CopyComplete

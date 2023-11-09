@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6P/O0rcXiqlQsjpWFI6QKLDNXB3ZO3oPfTW+JPu/r2iConBIyHW1pX/ksrp/S/V6LwZ1DQHP9JUUAUh4k9Dig==",
+  "success": true,
+  "projectFilePath": "/Users/oleg/Projects/text_redaktor/text_redaktor.csproj",
+  "expectedPackageFiles": [
+    "/Users/oleg/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
